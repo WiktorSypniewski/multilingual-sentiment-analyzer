@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+torch
+matplotlib
+joblib
+openpyxl
+sentence-transformers
+deep-translator
